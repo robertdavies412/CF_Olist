@@ -20,7 +20,7 @@ For this project, the following python libraries were used:
 * folium for geospatial analysis
 * sci-kit learn for regression and cluster analysis
 
-The code is available as Jupyter Notebooks, available under /03 Scripts/.
+The code is available as Jupyter Notebooks, available under /Scripts/.
 
 Tableau was used for a storyboard data visualization summary of the project.
 ## Skills
