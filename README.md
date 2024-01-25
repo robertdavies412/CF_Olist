@@ -1,6 +1,6 @@
 # CF_Olist
 ## Objective
-![image](https://github.com/robertdavies412/CF_Olist/assets/152107027/6874dfbf-df25-4f15-aba7-b403033f947a)
+replace ![image](https://github.com/robertdavies412/CF_Olist/assets/152107027/6874dfbf-df25-4f15-aba7-b403033f947a.type) with <img src="https://github.com/robertdavies412/CF_Olist/assets/152107027/6874dfbf-df25-4f15-aba7-b403033f947a.type" width="100" height="40">
 
 Use a real commercial dataset (anonymized) to perform exploratory visual analysis to derive insights and recommend areas for focus for improving the company's order delivery fulfillment performance.
 ## Data
