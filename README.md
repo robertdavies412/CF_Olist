@@ -34,3 +34,6 @@ Skills demonstrated on the project include:
 * Data visualization
 * Analysis narrative
 * Tableau storyboard design
+## Resources
+Link to Tableau storyboard: [Olist Order Delivery Analysis](https://public.tableau.com/views/CFOlistOrderDeliveryAnalysis/OlistOrderDeliveries?:language=en-US&:display_count=n&:origin=viz_share_link)
+
