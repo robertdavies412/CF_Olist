@@ -3,7 +3,7 @@
 <img src="https://github.com/robertdavies412/CF_Olist/assets/152107027/6874dfbf-df25-4f15-aba7-b403033f947a.type" width="100" height="40">
 
 
-Use a real commercial dataset (anonymized) to derive insights from exploratory visual analysis, and to recommend specific areas for improving the company's order delivery fulfillment performance.
+Use a real commercial dataset (anonymized) to derive insights from exploratory visual analysis, and to recommend specific areas for improving the company's order delivery fulfillment performance and customer satisfaction.
 ## Data
 This is a Brazilian e-commerce public dataset of orders made at Olist store from 2016 to 2018. The dataset comprises of information on the following dimensions:
 * Orders
